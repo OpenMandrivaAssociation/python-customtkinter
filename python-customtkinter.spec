@@ -18,6 +18,7 @@ BuildRequires:	python%{pyver}dist(setuptools)
 BuildSystem:	python
 
 Requires: tkinter
+Requires: python-darkdetect
 
 Provides: customtkinter
 
