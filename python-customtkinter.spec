@@ -29,6 +29,6 @@ With CustomTkinter you'll get a consistent look across all desktop platforms (Wi
 %autosetup -n %{pypi_name}-%{version} -p1
 
 %files
-%doc README.rst
+#doc README.rst
 %license LICENSE
 #{python3_sitelib}/%{pypi_name}*/
