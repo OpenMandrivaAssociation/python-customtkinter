@@ -31,4 +31,5 @@ With CustomTkinter you'll get a consistent look across all desktop platforms (Wi
 %files
 #doc README.rst
 %license LICENSE
-#{python3_sitelib}/%{pypi_name}*/
+%{python3_sitelib}/%{pypi_name}-%{version}.dist-info
+%{python3_sitelib}/customtkinter/
