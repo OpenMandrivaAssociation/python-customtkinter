@@ -6,7 +6,7 @@ Release:	1
 Summary:	A modern and customizable python UI-library based on Tkinter
 
 Group:		Development/Python
-License:	BSD
+License:	MIT
 URL:		https://customtkinter.tomschimansky.com/
 Source0:	https://files.pythonhosted.org/packages/source/c/customtkinter/customtkinter-%{version}.tar.gz
 
