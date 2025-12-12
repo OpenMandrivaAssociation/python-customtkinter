@@ -2,7 +2,7 @@
 
 Name:		python-%{pypi_name}
 Version:	5.2.2
-Release:	3
+Release:	4
 Summary:	A modern and customizable python UI-library based on Tkinter
 
 Group:		Development/Python
