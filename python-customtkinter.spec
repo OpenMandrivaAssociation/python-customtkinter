@@ -2,7 +2,7 @@
 
 Name:		python-%{pypi_name}
 Version:	5.2.2
-Release:	4
+Release:	5
 Summary:	A modern and customizable python UI-library based on Tkinter
 
 Group:		Development/Python
@@ -19,7 +19,7 @@ BuildSystem:	python
 
 Requires: tkinter
 Requires: python-darkdetect
-
+Requires: python-typing-extensions
 Provides: customtkinter
 
 %description
