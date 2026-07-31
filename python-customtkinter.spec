@@ -1,7 +1,7 @@
 %global module customtkinter
 
 Name:		python-customtkinter
-Version:	5.3.0
+Version:	6.0.0
 Release:	1
 Summary:	A modern and customizable python UI-library based on Tkinter
 Group:		Development/Python
