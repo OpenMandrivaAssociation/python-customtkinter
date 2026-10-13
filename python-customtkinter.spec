@@ -2,7 +2,7 @@
 
 Name:		python-customtkinter
 Version:	6.0.0
-Release:	1
+Release:	2
 Summary:	A modern and customizable python UI-library based on Tkinter
 Group:		Development/Python
 License:	MIT
@@ -12,7 +12,7 @@ Source0:	%{URL}/archive/v%{version}/%{name}-%{version}.tar.gz
 BuildSystem:	python
 BuildArch:	noarch
 BuildRequires:	git-core
-BuildRequires:	pkgconfig(python)
+BuildRequires:	pkgconfig(python3)
 BuildRequires:	python%{pyver}dist(pip)
 BuildRequires:	python%{pyver}dist(pillow)
 BuildRequires:	python%{pyver}dist(setuptools)
